@@ -8,3 +8,8 @@ body{
 h2{
   font-family: 'Mountains of Christmas', cursive;
 }
+
+.block_closed{
+  background-color: black;
+  color: white;
+}
