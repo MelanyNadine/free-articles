@@ -9,7 +9,11 @@ h2{
   font-family: 'Mountains of Christmas', cursive;
 }
 
-section{
+#open{
+  display=none;
+}
+
+#buttons{
   margin: 5vw 15vw;
 }
 
