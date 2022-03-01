@@ -9,7 +9,16 @@ h2{
   font-family: 'Mountains of Christmas', cursive;
 }
 
+section{
+  margin: 10vw;
+}
+
 .block_closed{
   background-color: black;
   color: white;
+  padding: 0.3vw 1.2vw;
+  width: 25vw;
+  border-radius: 1vw;
+  border: 5px solid #550a0a;
+  text-align: center;
 }
