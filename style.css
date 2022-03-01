@@ -1,4 +1,8 @@
 body{
   margin: 0;
-  background-image: url(https://www.technocrazed.com/wp-content/uploads/2015/11/Cool-Black-And-White-Wallpapers-Resolution-1920x1080-Desktop-Backgrounds-15.jpg);
+  background-image: url(https://www.technocrazed.com/wp-content/uploads/2015/11/Cool-Black-And-White-Wallpapers-Resolution-1920x1080-Desktop-Backgrounds-15.jpg); 
+}
+
+h2{
+  font-family: 'Mountains of Christmas', cursive;
 }
