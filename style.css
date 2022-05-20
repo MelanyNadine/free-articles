@@ -22,8 +22,8 @@ h2{
 }
 
 .block_closed{
-  background-color: black;
-  color: white;
+  background-color: rgb(230,240,250);
+  color: black;
   padding: 0.3vw 1.2vw;
   width: 25vw;
   border-radius: 1vw;
