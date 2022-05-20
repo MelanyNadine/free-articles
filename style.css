@@ -2,8 +2,8 @@ body{
   margin: 0;
   background-image:
     linear-gradient(
-      to right, 
-      black, rgb(245,240,240)
+      to top right, 
+      rgb(70,70,90), rgb(190,190,200), rgb(240,245,252), white , rgb(240,245,252), rgb(190,190,200), rgb(70,70,90)
     );
   background-size: cover;
   background-attachment: fixed;
