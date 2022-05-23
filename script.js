@@ -1,11 +1,10 @@
-const folders = ["Physics", "Mathematics", "Information Theory", "Information Security", "Economics", "Child Abuse Studies & Statistics"];
-
-function listElements(folderName) {  
-  document.getElementById("buttons").innerHTML += '<li onclick="openFolder('+folderName+')>'+folderName+'</li>';
-}
 
 function listFolders() {
+  let folders = ["Physics", "Mathematics", "Information Theory", "Information Security", "Economics", "Child Abuse Studies & Statistics"];
   folders.forEach(listElements);
+  function listElements(folderName) {  
+    document.getElementById("buttons").innerHTML += '<li onclick="openFolder('+folderName+')>'+folderName+'</li>';
+  }
 }
 
 function x(variable_name) {
