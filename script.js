@@ -1,13 +1,10 @@
+const folders = ["Physics", "Mathematics", "Information Theory", "Information Security", "Economics", "Child Abuse Studies & Statistics"];
+folders.forEach(folders);
 
-function folders() {  
-  var req = new XMLHttpRequest();
-  req.open('GET', 'https://github.com/MelanyNadine/free-articles', false);
-  req.send(null);
-  if (req.status == 200)
-    dump(req.responseText);
-  document.getElementById('hiddenXULiframe').contentWindow.document.body.innerHTML = req.responseText;
-  let foldersAndFiles = document.getElementsByClassName('js-navigation-open Link--primary');
-  console.log(foldersAndFiles);
+function folders(folderName) {  
+  const listItem = document.createElement("li");
+  listItem.innerHTML = folderName;
+  document.getElementById("buttons").appendChild(listItem);
 }
 
 function x(variable_name) {
