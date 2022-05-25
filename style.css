@@ -9,22 +9,22 @@ body{
   background-attachment: fixed;
 }
 
-h2{
-  font-family: 'Mountains of Christmas', cursive;
-}
-
-#open{
-  display: none;
+a{
+	text-decoration: none;
+	color: black;
 }
 
 #buttons{
   margin: 5vw 15vw;
 }
 
-.block_closed{
+#buttons li{
   background-color: white;
+  font-family: 'Mountains of Christmas', cursive;
+	font-size: 1.7vw;
   color: black;
-  padding: 0.2vw 1.2vw;
+	margin: 2vw 0;
+  padding: 0.7vw 1.2vw;
   width: 25vw;
   border-radius: 1vw;
   border: 5px solid #550a0a;
