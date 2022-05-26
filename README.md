@@ -1,2 +1,2 @@
-# free-articles
-Articles you may want to know but cannot afford to.
+# Free Articles!
+Articles you may want to read but cannot afford to (if only available under suscription or purchase).
