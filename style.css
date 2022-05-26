@@ -15,6 +15,12 @@ a{
   margin: 2vw 0;
 }
 
+ul{
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
 #folders{
   margin: 5vw 15vw;
 }
@@ -29,7 +35,6 @@ a{
   background-color: white;
   font-family: 'Mountains of Christmas', cursive;
   font-size: 1.7vw;
-  color: black;
   padding: 0.7vw 1.2vw;
   border-radius: 1vw;
   border: 5px solid #550a0a;
@@ -38,4 +43,54 @@ a{
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+#buttons li:hover{
+  background-color: black;
+  border: 5px solid black;
+  color: white;
+}
+
+/********************************
+/	RESPONSIVE DESIGN
+/********************************/
+
+
+  /*	Screen: 650px - 800px
+   *******************************/
+
+@media screen and (max-width: 800px) {
+  a{
+    margin: 2.5vw 0;
+  }
+  #buttons {
+    display: grid;
+    grid-template-columns: 30vw 30vw;
+    grid-column-gap: 5vw;
+  }
+
+  #buttons li{
+    min-height: 8vw;
+    font-size: 2.5vw;
+  }
+
+}
+  /*	Screen: less than 600px
+   *******************************/
+
+@media screen and (max-width: 650px) {
+  #folders{
+     margin: 10vw 22vw;
+  }
+
+  #buttons{
+    display: block;
+  }
+
+  #buttons li{
+    min-height: 10vw;
+    margin: 5vw 0;
+    font-size: 3.5vw;
+  }
+
 }
