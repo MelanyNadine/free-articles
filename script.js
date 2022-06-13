@@ -1,10 +1,12 @@
 const folders = {
- 	"Physics": "https://u.pcloud.link/publink/show?code=kZpwpzVZW7GjLH2RTnXTxf5oOrsqUJ70416V",
+ 	"Physics": "https://u.pcloud.link/publink/show?code=kZdu2RVZvqP33Smkp9zkKzDaBFu0TQwg22wk",
 	"Mathematics": "https://u.pcloud.link/publink/show?code=kZ3lpzVZWuRbUhACQkQkqrRrgqA2dyab5Gg7",
 	"Information Theory": "https://u.pcloud.link/publink/show?code=kZ3lpzVZWuRbUhACQkQkqrRrgqA2dyab5Gg7",
 	"Information Security": "https://u.pcloud.link/publink/show?code=kZ3lpzVZWuRbUhACQkQkqrRrgqA2dyab5Gg7",
 	"Economics": "https://u.pcloud.link/publink/show?code=kZNlpzVZ9jQeCGcuSTLDEUrHrHT4jzzUOuik",
-	"Child Abuse Studies & Statistics": "https://u.pcloud.link/publink/show?code=kZrxpzVZQoCkap7vnlJ4yLOld1pJ051rQ2Xy"
+	"Child Abuse Studies & Statistics": "https://u.pcloud.link/publink/show?code=kZUu2RVZE19ixBPvSwzvhaWE16xIfyXN3ReX",
+	"Neuroscience": "https://u.pcloud.link/publink/show?code=kZGu2RVZ1QhfBaU0leS2Pw0oqhis8SbGHg97",
+	"Psychiatry & Psychology": "https://u.pcloud.link/publink/show?code=kZru2RVZIm7aJ5jwVjBQflJgny0WEVnBsv3X"
 };
 
 
