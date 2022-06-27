@@ -6,7 +6,8 @@ const folders = {
 	"Economics": "https://u.pcloud.link/publink/show?code=kZNlpzVZ9jQeCGcuSTLDEUrHrHT4jzzUOuik",
 	"Child Abuse Studies & Statistics": "https://u.pcloud.link/publink/show?code=kZUu2RVZE19ixBPvSwzvhaWE16xIfyXN3ReX",
 	"Neuroscience": "https://u.pcloud.link/publink/show?code=kZGu2RVZ1QhfBaU0leS2Pw0oqhis8SbGHg97",
-	"Psychiatry & Psychology": "https://u.pcloud.link/publink/show?code=kZru2RVZIm7aJ5jwVjBQflJgny0WEVnBsv3X"
+	"Psychiatry & Psychology": "https://u.pcloud.link/publink/show?code=kZru2RVZIm7aJ5jwVjBQflJgny0WEVnBsv3X",
+	"Quantum Computation and Information": "https://u.pcloud.link/publink/show?code=kZlagLVZqRWliIxWX30SbT6BjV3J9kXTo4VX"
 };
 
 
